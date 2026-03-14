@@ -53,7 +53,7 @@ Interface de uma loja de tecnologia com apresentação de produtos como:
 ## ▶ Como executar o projeto
 
 1. Clone o repositório
-
+https://github.com/oluigi95/Correa-STORE.git
 
 
 2. Abra o arquivo `index.html` no navegador.
