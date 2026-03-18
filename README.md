@@ -44,6 +44,10 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ## 📸 Preview
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63d10180-ce91-4cbc-8554-b823650ef994" alt="Preview do Correa Store" />
+</p>
+
 Interface de uma loja de tecnologia com apresentação de produtos como:
 
 - Apple Watch
